@@ -3,6 +3,9 @@
  <object class="com.carefulcoding.backlogmanager.model.Backlog">
   <void method="add">
    <object class="com.carefulcoding.backlogmanager.model.BacklogItem">
+    <void property="completed">
+     <boolean>true</boolean>
+    </void>
     <void property="description">
      <string>Create Backlog Program</string>
     </void>
