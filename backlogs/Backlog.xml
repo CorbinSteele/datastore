@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_60" class="java.beans.XMLDecoder">
+ <object class="com.carefulcoding.backlogmanager.model.Backlog">
+  <void method="add">
+   <null/>
+  </void>
+  <void property="index">
+   <int>1</int>
+  </void>
+  <void property="name">
+   <string>Backlog</string>
+  </void>
+ </object>
+</java>
