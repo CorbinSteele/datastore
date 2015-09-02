@@ -31,9 +31,6 @@
   <void method="add">
    <null/>
   </void>
-  <void method="add">
-   <null/>
-  </void>
   <void property="index">
    <int>1</int>
   </void>
