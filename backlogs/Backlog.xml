@@ -29,11 +29,7 @@
    </object>
   </void>
   <void method="add">
-   <object class="com.carefulcoding.backlogmanager.model.BacklogItem">
-    <void property="description">
-     <string>t</string>
-    </void>
-   </object>
+   <null/>
   </void>
   <void method="add">
    <null/>
