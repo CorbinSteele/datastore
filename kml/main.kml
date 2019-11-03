@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Style id="rf">
+            <ListStyle>
+                <listItemType>radioFolder</listItemType>
+            </ListStyle>
+        </Style>
+
+        <Folder>        
+            <name>Display</name>
+            <open>1</open>
+            <description>Display type</description>
+            <styleUrl>#rf</styleUrl>
+
+            <NetworkLink>
+                <name>Groups</name>
+                <Link>
+                    <href> groups.kml </href>
+                </Link>
+            </NetworkLink>
+
+            <NetworkLink>
+                <name>Events</name>
+                <visibility>0</visibility>
+                <Link>
+                    <href> events.kml </href>
+                </Link>
+            </NetworkLink>
+
+        </Folder>
+    </Document>
+</kml>
