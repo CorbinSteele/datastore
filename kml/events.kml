@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark id="pm123">
+      <name>event123</name>
+      <Point>
+        <coordinates>35.22,-80.84,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="pm456">
+      <name>event456</name>
+      <Point>
+        <coordinates>35.20,-80.83,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
